@@ -5,7 +5,7 @@ Sou um cara fascinado por programação e que durante a faculdade descobriu nova
 Estou disponível para conversas e novas propostas de trabalho ou projetos!<br>
 Para entrar em contato, você pode clicar abaixo no seu meio de contato preferido...<br>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/75982622551)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/75983281339)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contato.devdenilsonsantos@gmail.com)
 
 Se quiser ver mais informações sobre o meu perfil profissional no LinkedIn, basta clicar [aqui!](https://www.linkedin.com/in/denilson-santos-dev-fullstack)
